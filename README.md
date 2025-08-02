@@ -151,13 +151,3 @@ pipeline {
 
 ---
 
-## ✍️ Author
-
-This project was created for learning and implementing real-world **DevOps practices** using **Jenkins distributed architecture**.
-
----
-
-```
-
-Let me know if you'd like a version with Docker-based agents or infrastructure-as-code (IaC) support using Ansible or Terraform.
-```
